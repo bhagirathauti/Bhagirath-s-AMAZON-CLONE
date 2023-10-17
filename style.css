@@ -156,7 +156,6 @@
     background-image: url("hero_image.jpg");
     background-size: cover;
     height: 330px; 
-    width: 1445px;
 }
 .hero-message{
     display: flex;
